@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on academic and research projects in Supply Chain Management, focusing on procurement strategy, logistics efficiency, and sustainability.<br><br>🤝 I’m looking to collaborate on data analysis and process improvement projects related to operations or supply chain.<br><br>💡 I’m looking for help with learning advanced data analytics tools like Power BI, SQL, and Python for business.<br><br>🌱 I’m currently learning about digital supply chain transformation and lean management principles.<br><br>💬 Ask me about procurement analytics, supplier relationship management, or how data can drive better business decisions.<br><br>⚡ Fun fact: I love turning spreadsheets into insights — and I believe every process can be improved with a bit of data and creativity!
 
+![e2065c7ab88cd3119ad243d4c518d095](https://github.com/user-attachments/assets/766cf8f2-7900-42ea-8e71-e59add1c2218)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/minhthutran827/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Thu.t.bbs21@eiu.edu.vn) 
